@@ -1,0 +1,71 @@
+
+USERS
+{
+  "name": "Rio Kevin",
+  "lastName": "Prince Ballack",
+  "email": "Riokv@cinema.com",
+  "password": "ballack74",
+  "role": "ADMIN",
+  "userName": "kevinpr29",
+  "DNI": 9572945,
+  "birthDate": "1976-02-29T00:00:00.000Z",
+  "phoneNumber": 8445159838		
+}
+{
+  "name": "Eddie Josh",
+  "lastName": "Clark Vesel",
+  "email": "eddijv@cinema.com",
+  "password": "clark74",
+  "role": "EMPLOYEE",
+  "userName": "eddiej88",
+  "DNI": 7483657,
+  "birthDate": "1999-09-19T00:00:00.000Z",
+  "phoneNumber": 8449027454		
+}
+{
+  "name": "Walter Jim",
+  "lastName": "Lick Hammer",
+  "email": "waltj@cinema.com",
+  "password": "lick55",
+  "role": "CUSTOMER",
+  "userName": "jim40",
+  "DNI": 3845091,
+  "birthDate": "1989-03-30T00:00:00.000Z",
+  "phoneNumber": 8448366711	
+}
+
+MOVIES
+{
+  "title": "The Man from Earth",
+  "director": "Richard Schenkman",
+  "releaseDate": "2008-08-27T00:00:00.000Z",
+  "rate": 94,
+  "duration": "87 minutes",
+  "genre": "Science fiction, Drama"
+}
+{
+  title: "The Post",
+  director: "Steven Spielberg",
+  releaseDate: "2017-12-22T00:00:00.000+00:00",
+  rate: 86,
+  duration: "116 minutes",
+  genre: "Political thriller
+}
+
+TICKET PURCHASES
+{
+  "movie": "",
+  "quantity": 3,
+  "ticketValue": 5,
+  "time": "2024-06-06T02:00:00.000Z",
+  "theater": 7,
+  "seats": "C4, C5"
+}
+{
+  "movie": "",
+  "quantity": 4,
+  "ticketValue": 6,
+  "time": "2024-06-21T02:00:00.000Z",
+  "theater": 10,
+  "seats": "G9, G10"
+}
